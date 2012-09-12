@@ -1,10 +1,7 @@
 /**
  * Written by Mike O'Beirne
  * michael.obeirne@gmail.com
- * 
- * Didn't get this one completely. Failed some test cases. Realized a little too late that
- * I modeled putting the pieces in slightly wrong. Completed 5/6 of judge data - failed on the last.
- */
+ * Completed the judge data on the ACM ICPC Live Archive in 0.716 seconds. */
 import java.awt.Point;
 import java.util.Scanner;
 
